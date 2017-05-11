@@ -19,7 +19,7 @@ as a='git add .'
 as comm='git commit'
 as c='a; comm -m' # + message
 as fixup='comm --fixup' # + hash
-as amend='comm --amend'
+as amend='comm --amend' # appends last commit
 
 as p='git push'
 as po='p origin'
@@ -78,4 +78,4 @@ as d='dir --all'
 as cd.='cd ..; d'
 as cd2='cd ../../; d'
 
-as start='./server/start'
+as start='node ~/server/start'
