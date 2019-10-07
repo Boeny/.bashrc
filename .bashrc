@@ -1,5 +1,5 @@
 # Vim keys:
-# a/i   - start editing
+# a/i - start editing
 # d   - delete line
 # s   - delete symbol
 # Esc -> commands:
