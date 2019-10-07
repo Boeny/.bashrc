@@ -1,10 +1,11 @@
 # Vim keys:
-# a   - start editing
+# a/i   - start editing
 # d   - delete line
 # s   - delete symbol
 # Esc -> commands:
 # :w  - save
 # :q  - quit
+# :wq - save and quit
 # :q! - quit without saving
 
 # git
