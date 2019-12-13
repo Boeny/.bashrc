@@ -44,8 +44,6 @@ alias nv='npm view'
 
 # bash
 alias d='dir --all'
-alias cd.='cd ..; d'
-alias cd2='cd ../../; d'
 alias brc='vim ~/.bashrc' # open this config file
 
 # write lines to this config file
